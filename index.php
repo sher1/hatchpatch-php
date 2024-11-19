@@ -47,6 +47,9 @@ $dbname = "hp-php";
 
 </head>
 <body>
+  <nav>
+    <sidebar></sidebar>
+  </nav>
 <table id="example" class="display dataTable" style="width: 100%">
       <thead>
         <tr>

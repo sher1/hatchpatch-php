@@ -47,7 +47,7 @@ $dbname = "hp-php";
 <table id="example" class="display dataTable" style="width: 100%">
       <thead>
         <tr>
-          <th>Title(Click type to Download)</th>
+          <th>Title(Click to Download)</th>
           <th>Description</th>
         </tr>
       </thead>
